@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Dima's github stats](https://github-readme-stats.vercel.app/api?username=thienkt)
+
+
+![](https://komarev.com/ghpvc/?username=thienkt&color=brightgreen)
