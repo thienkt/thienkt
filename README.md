@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=thienkt&color=brightgreen)
+
+
+![LockScreen](https://github.com/thienkt/thienkt/assets/55495220/5d76c69b-50f4-4906-bf6e-5c3a3f941e5b)
